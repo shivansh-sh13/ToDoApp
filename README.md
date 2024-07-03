@@ -1,6 +1,6 @@
 # React To-Do App
 
-A simple To-Do application built with React and Redux. This application allows users to add, view, edit, and delete tasks.
+A simple To-Do application built with React, usestate, useeffect and Redux. This application allows users to add, view, edit, and delete tasks.
 
 ## Getting Started with Create React App
 
